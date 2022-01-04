@@ -1,4 +1,4 @@
-Hey, I'm Super Cool Ninja, I love modding games and share my experience when I can to help other.  
+# Hey, I'm Super Cool Ninja, I love modding games and share my experience when I can to help other.  
 - 👀 I’m interested in software development.
 - 🌱 I’m a Self-taught programmer. 
 
