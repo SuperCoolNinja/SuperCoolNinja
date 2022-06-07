@@ -2,6 +2,11 @@
 - 👀 I’m interested in software development.
 - 🌱 I’m a Self-taught programmer. 
 
+
+  <a href="https://github.com/SuperCoolNinja">
+    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/SuperCoolNinja?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
+
+
 ### Languages and Tools:
 
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="26px" /> </a> 
