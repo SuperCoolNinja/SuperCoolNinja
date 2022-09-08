@@ -1,5 +1,5 @@
 ## Hey, I'm Super Cool Ninja, I love modding games and <br> sharing my experience when I can to help others.
-- 👀 I’m interested in software development.
+- 👀 I’m a Full Stack developer.
 - 🌱 I’m a Self-taught programmer. 
 
 
