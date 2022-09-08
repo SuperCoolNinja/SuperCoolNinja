@@ -1,4 +1,7 @@
-## Hey, I'm Super Cool Ninja, I love modding games and <br> sharing my experience when I can to help others.
+# Hey, I'm Super Cool Ninja !✌
+
+## About me
+I love learning new concepts, and sharing my experience when I can to help others.
 - 🌱 I’m a Full Stack developer.
 
 
@@ -6,7 +9,7 @@
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/SuperCoolNinja?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
 
 
-### Languages and Tools:
+### Experienced language and tools ✍
 
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="26px" /> </a> 
 
@@ -35,15 +38,3 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-</br>
-
-### Connect with me:
-
-[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />][discord]
-
-
-
-[youtube]: https://www.youtube.com/channel/UCGxZ3qgSIVzU-eU2Whe7FHw
-[discord]: https://discord.gg/zmwnRtHnyN
