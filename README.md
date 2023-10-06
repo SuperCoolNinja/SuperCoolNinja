@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Super Cool Ninja </h1>
 
 <p style="margin: 15px;" align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?duration=2500&color=ff5722&center=true&vCenter=true&lines=developer+fullstack;a+passionate;their+is+no+solution+without+error;self-taught;i+love+helping+others;">
-    <h3 align="center">I am a full-stack developer, and I enjoy witnessing my projects come to life.</h3>
+<img src="https://readme-typing-svg.herokuapp.com?duration=2500&color=ff5722&center=true&vCenter=true&lines=fullstack+developer;my+stack+are;LUA;JS;TS;but+also;C/CPP;and+Csharp;I+Love+Open+Source.;">
 </p>
 
 <div align="center"> 
