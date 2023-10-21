@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Super Cool Ninja </h1>
 
 <p style="margin: 15px;" align="center">
-<img src="https://readme-typing-svg.herokuapp.com?duration=2500&color=ff5722&center=true&vCenter=true&lines=fullstack+developer;my+stack+are;LUA;JS;TS;but+also;C/CPP;and+Csharp;I+Love+Open+Source.;">
+<img src="https://readme-typing-svg.herokuapp.com?duration=2500&color=ff5722&center=true&vCenter=true&lines=fullstack+developer;I+Love+Open+Source.;">
 </p>
 
 <div align="center"> 
