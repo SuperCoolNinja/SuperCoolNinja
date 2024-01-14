@@ -36,9 +36,12 @@
 
 #
 
-### 📊 Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=supercoolninja&show_icons=true&theme=gruvbox)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=supercoolninja&show_icons=true&theme=gruvbox" alt="Stats">
+</p>
+
+
 
 #
 <h3 align="center">others</h3>
