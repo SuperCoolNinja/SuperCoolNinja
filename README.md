@@ -36,7 +36,6 @@
 
 <h3 align="center">others</h3>
 <p align="center">
-      <a href="https://pnpm.io/" target="_blank"> <img src="https://camo.githubusercontent.com/c94550c0ba7556b7d9361faec72b8a3883e7c623f521f3f1edf65ff9c1060214/68747470733a2f2f64333377756272666b69306c36382e636c6f756466726f6e742e6e65742f616164323139623663393331636562623533313231646364613739346636313830643965343339372f31376633342f6173736574732f696d616765732f706e706d2d7374616e646172642d37396339646262326539396238353235616535353137343538303036316531622e737667"alt="pnpm" width="50" height="50"/> </a>
    <a href="https://github.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg"alt="github" width="50" height="50"/> </a>
    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg"alt="vscode" width="50" height="50"/> </a>
         <a href="https://visualstudio.microsoft.com/fr/vs/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/visualstudio/visualstudio-plain.svg" alt="visual studio" width="50" height="50"/> </a>
