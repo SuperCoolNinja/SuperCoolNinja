@@ -34,6 +34,13 @@
   <a href="https://expressjs.com/fr/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original.svg" alt="expressjs" width="50" height="50"/> </a>
 </p>
 
+#
+
+### 📊 Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=supercoolninja&show_icons=true&theme=gruvbox)
+
+#
 <h3 align="center">others</h3>
 <p align="center">
    <a href="https://github.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg"alt="github" width="50" height="50"/> </a>
