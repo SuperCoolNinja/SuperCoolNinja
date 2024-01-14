@@ -34,19 +34,20 @@
   <a href="https://expressjs.com/fr/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original.svg" alt="expressjs" width="50" height="50"/> </a>
 </p>
 
-#
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=supercoolninja&show_icons=true&theme=gruvbox" alt="Stats">
-</p>
 
 
 
-#
+
+
 <h3 align="center">others</h3>
 <p align="center">
    <a href="https://github.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg"alt="github" width="50" height="50"/> </a>
    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg"alt="vscode" width="50" height="50"/> </a>
         <a href="https://visualstudio.microsoft.com/fr/vs/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/visualstudio/visualstudio-plain.svg" alt="visual studio" width="50" height="50"/> </a>
 </p>
+
+<h3 align="center">Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=supercoolninja&show_icons=true&theme=gruvbox" alt="Stats">
+</p>
+
