@@ -1,53 +1,69 @@
-<h1 align="center">Hi 👋, I'm Super Cool Ninja </h1>
+<h1 align="center">
+         <samp>&gt; Hey 👋<br>&gt; I am
+                <b><a target="_blank" href="https://discord.gg/xKKAjXNxPt">SuperCoolNinja</a> !</b>
+        </samp>
+</h1>
 
-<p style="margin: 15px;" align="center">
-<img src="https://readme-typing-svg.herokuapp.com?duration=2500&color=ff5722&center=true&vCenter=true&lines=fullstack+developer;I+Love+Open+Source.;">
+
+<p align="center"> 
+  <samp>
+    <br>
+    「 I am a full stack developer from <b>France</b> 」
+    <br>
+    <br>
+  </samp>
 </p>
 
-<div align="center"> 
+
+<p align="center">
+ <a href="https://discord.gg/xKKAjXNxPt" target="blank">
+  <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="SuperCoolNinja Discord's server" />
+ </a>
+ <a href="https://www.linkedin.com/in/samir-baatour/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%237289DA.svg?&logo=linkedin&logoColor=white" alt="Linkedin"/>
+ </a>
+ <a href="https://www.youtube.com/channel/UCGxZ3qgSIVzU-eU2Whe7FHw" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" />
+ </a>
+</p>
+<br />
+
+<!-- About Section -->
+ # About me
+ 
+<p>
+ <img align="right" width="350" src="https://cdn.discordapp.com/attachments/1170762593938440302/1230908678270353480/programmer.gif?ex=6635080a&is=6622930a&hm=4a5927c1ef4c780e1f6ea7e7269a481a16b46e16ca8e843f3f7b47cfea908a51&" alt="Coding gif" />
+  
+ ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
+ ❤️ &emsp; Love to writing code and learning new features<br/><br/>
+ 💬 &emsp; Ask me about anything [here](https://discord.gg/xKKAjXNxPt)
+
+</p>
+
+<br/>
+<br/>
+<br/>
+
+# Tech Stack
+
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![JS](https://shields.io/badge/JavaScript-0077B5?style=for-the-badge&logo=JavaScript&logoColor=white)
+![ReactJS](https://shields.io/badge/react-black?style=for-the-badge&logo=react)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+<br/>
+<hr/>
+<br/>
+
+<p align="center">
   <a href="https://github.com/SuperCoolNinja">
-  <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/SuperCoolNinja?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SuperCoolNinja&theme=codeSTACKr" alt="SuperCoolNinja's GitHub Contribution"/>
   </a>
-</div>
-
-
-<h2 align="center">Languages and Tools 🛠</h2>
-<h3 align="center">front-end</h3>
-<p align="center">
-      <a href="https://developer.mozilla.org/fr/docs/Web/HTML" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg"alt="html" width="50" height="50"/> </a>
-   <a href="https://developer.mozilla.org/fr/docs/Web/CSS" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain.svg"alt="css" width="50" height="50"/> </a>
-   <a href="https://sass-lang.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg"alt="scss" width="50" height="50"/> </a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="50" height="50"/> </a>
-        <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/> </a>
-        <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="50" height="50"/> </a>
-       <a href="https://react.dev/blog/2023/03/16/introducing-react-dev" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" alt="webpack" width="50" height="50"/> </a>
-    <a href="https://getbootstrap.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg"alt="bootstrap" width="50" height="50"/> </a>
 </p>
 
-<h3 align="center">back-end</h3>
-<p align="center">
-      <a href="https://learn.microsoft.com/fr-fr/dotnet/csharp/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"alt="C#" width="50" height="50"/> </a>
-   <a href="https://www.lua.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"alt="LUA" width="50" height="50"/> </a>
-   <a href="https://nodejs.org/en" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"alt="nodejs" width="50" height="50"/> </a>
-        <a href="https://sql.sh/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql" width="50" height="50"/> </a>
-       <a href="https://www.mongodb.com/fr-fr" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original.svg" alt="mongodb" width="50" height="50"/> </a>
-  <a href="https://expressjs.com/fr/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original.svg" alt="expressjs" width="50" height="50"/> </a>
-</p>
-
-
-
-
-
-
-<h3 align="center">others</h3>
-<p align="center">
-   <a href="https://github.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg"alt="github" width="50" height="50"/> </a>
-   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg"alt="vscode" width="50" height="50"/> </a>
-        <a href="https://visualstudio.microsoft.com/fr/vs/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/visualstudio/visualstudio-plain.svg" alt="visual studio" width="50" height="50"/> </a>
-</p>
-
-<h3 align="center">Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=supercoolninja&show_icons=true&theme=gruvbox" alt="Stats">
-</p>
-
+<a> 
+    <a href="https://github.com/SuperCoolNinja"><img alt="SuperCoolNinja's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=SuperCoolNinja&show_icons=true&count_private=true&theme=codeSTACKr&border_color=7F3FBF&bg_color=0D1117&title_color=f2f2f2&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/SuperCoolNinja"><img alt="SuperCoolNinja's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=SuperCoolNinja&langs_count=8&layout=compact&theme=codeSTACKr&border_color=7F3FBF&bg_color=0D1117&title_color=f2f2f2&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
