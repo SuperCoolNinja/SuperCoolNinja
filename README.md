@@ -36,8 +36,8 @@
   
  ❤️ &emsp; I like to write code and I Love Open Source.<br/><br/>
  👀 &emsp; My interests are web development and game development.<br/><br/>
- 😁 &emsp; In my free time I like to help when I can, Share my knowledge and learn stuff.<br/><br/>
- 🤦‍♂️ &emsp; My big issue is english and maths, but i'm working on, at least I try 😉.<br/><br/>
+ 😁 &emsp; In my free time I like to help, and share my knowledge.<br/><br/>
+ 🤦‍♂️ &emsp; My big issue is english and maths, but i'm working on, at least I try 😉<br/><br/>
  🐱‍👤 &emsp; My main focus is actually ReactJS/C# .Net Core and Unity.<br/><br/>
 </p>
 
