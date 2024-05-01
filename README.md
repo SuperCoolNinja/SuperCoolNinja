@@ -38,7 +38,7 @@
  👀 &emsp; My interests are web development and game development.<br/><br/>
  😁 &emsp; In my free time I like to help, and share my knowledge.<br/><br/>
  🤦‍♂️ &emsp; My big issue is english and maths, but i'm working on, at least I try 😉<br/><br/>
- 👁️‍🗨️ &emsp; My main focus is actually ReactJS/C# .Net Core and Unity.<br/><br/>
+ 👁️‍🗨️ &emsp; My main focus is actually ReactJS/C# .Net and Unity.<br/><br/>
  😃 &emsp; Besides IT, I love walking, Meditating on the creation of God,<br/>&emsp;&emsp;&emsp;Smelling burning woods and Pizza of course.<br/><br/>
 </p>
 
