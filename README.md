@@ -38,7 +38,7 @@
  👀 &emsp; My interests are web development and game development.<br/><br/>
  😁 &emsp; In my free time I like to help, and share my knowledge.<br/><br/>
  🤦‍♂️ &emsp; My big issue is english and maths, but i'm working on, at least I try 😉<br/><br/>
- 👁️‍🗨️ &emsp; My main focus is actually ReactJS/C# .Net and Unity.<br/><br/>
+ 👁️‍🗨️ &emsp; My main focus is actually web developement and game developement.<br/><br/>
  😃 &emsp; Besides IT, I love walking, Meditating on the creation of God,<br/>&emsp;&emsp;&emsp;Smelling burning woods and Pizza of course.<br/><br/>
 </p>
 
@@ -51,6 +51,7 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![JS](https://shields.io/badge/JavaScript-0077B5?style=for-the-badge&logo=JavaScript&logoColor=white)
+![TS](https://shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFF)
 ![ReactJS](https://shields.io/badge/react-black?style=for-the-badge&logo=react)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
